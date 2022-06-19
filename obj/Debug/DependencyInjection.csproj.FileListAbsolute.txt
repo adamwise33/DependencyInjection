@@ -1,0 +1,16 @@
+C:\Users\Adam\OneDrive\Desktop\school\repos\DependencyInjection\bin\Debug\DependencyInjection.exe.config
+C:\Users\Adam\OneDrive\Desktop\school\repos\DependencyInjection\bin\Debug\DependencyInjection.exe
+C:\Users\Adam\OneDrive\Desktop\school\repos\DependencyInjection\bin\Debug\DependencyInjection.pdb
+C:\Users\Adam\OneDrive\Desktop\school\repos\DependencyInjection\obj\Debug\DependencyInjection.csproj.AssemblyReference.cache
+C:\Users\Adam\OneDrive\Desktop\school\repos\DependencyInjection\obj\Debug\DependencyInjection.csproj.SuggestedBindingRedirects.cache
+C:\Users\Adam\OneDrive\Desktop\school\repos\DependencyInjection\obj\Debug\MainWindow.g.cs
+C:\Users\Adam\OneDrive\Desktop\school\repos\DependencyInjection\obj\Debug\App.g.cs
+C:\Users\Adam\OneDrive\Desktop\school\repos\DependencyInjection\obj\Debug\DependencyInjection_MarkupCompile.cache
+C:\Users\Adam\OneDrive\Desktop\school\repos\DependencyInjection\obj\Debug\DependencyInjection_MarkupCompile.lref
+C:\Users\Adam\OneDrive\Desktop\school\repos\DependencyInjection\obj\Debug\MainWindow.baml
+C:\Users\Adam\OneDrive\Desktop\school\repos\DependencyInjection\obj\Debug\DependencyInjection.g.resources
+C:\Users\Adam\OneDrive\Desktop\school\repos\DependencyInjection\obj\Debug\DependencyInjection.Properties.Resources.resources
+C:\Users\Adam\OneDrive\Desktop\school\repos\DependencyInjection\obj\Debug\DependencyInjection.csproj.GenerateResource.cache
+C:\Users\Adam\OneDrive\Desktop\school\repos\DependencyInjection\obj\Debug\DependencyInjection.csproj.CoreCompileInputs.cache
+C:\Users\Adam\OneDrive\Desktop\school\repos\DependencyInjection\obj\Debug\DependencyInjection.exe
+C:\Users\Adam\OneDrive\Desktop\school\repos\DependencyInjection\obj\Debug\DependencyInjection.pdb
